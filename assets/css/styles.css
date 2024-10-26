@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f0f8ff;
+}
+
+header {
+  text-align: center;
+  background-color: #87ceeb;
+  color: white;
+  padding: 2em 0;
+}
+
+nav {
+  text-align: center;
+  margin: 1em 0;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+blockquote {
+  font-style: italic;
+  text-align: center;
+  color: #2a5d84;
+}
+
+button {
+  background-color: #2a5d84;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  margin: 2em 0;
+  color: #666;
+}
